@@ -1,3 +1,7 @@
 # Web_Scraper
 
-Projeto de Web Scraping de um site de noticias
+Projeto Web Scraping de um site de noticias.
+
+Extração de dados em dataframe com saída em XLSX
+
+
